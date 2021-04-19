@@ -6,6 +6,9 @@ Sintase livre para usar o meu projeto
 * Use a versão da Unity 2020.1.2f1 para evitar conflitos.
 
 
-![Screenshot_5](https://user-images.githubusercontent.com/15167847/104832181-0b0d4d00-586e-11eb-8491-52fbf86bf960.jpg)
 
+![Screenshot_3](https://user-images.githubusercontent.com/15167847/115174089-fa53b980-a09e-11eb-9b6c-703d56b3fbcb.jpg)
+
+### Vídeo de gameplay 
 [![The Brutal Rebel ](http://img.youtube.com/vi/tdSMjHZ-WJw/0.jpg)](http://www.youtube.com/watch?v=tdSMjHZ-WJw "Vídeo de Gameplay ")
+
