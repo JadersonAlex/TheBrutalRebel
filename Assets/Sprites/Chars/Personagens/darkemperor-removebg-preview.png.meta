@@ -1,0 +1,1114 @@
+fileFormatVersion: 2
+guid: 3fccf8500e0d61846b9d23844f1c5dc4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6295168841878458985
+    second: darkemperor-removebg-preview_0
+  - first:
+      213: -5143933400514226787
+    second: darkemperor-removebg-preview_1
+  - first:
+      213: 3971515245210303195
+    second: darkemperor-removebg-preview_2
+  - first:
+      213: -4875117339229830687
+    second: darkemperor-removebg-preview_3
+  - first:
+      213: 427708614674809838
+    second: darkemperor-removebg-preview_4
+  - first:
+      213: -9101757866964759860
+    second: darkemperor-removebg-preview_5
+  - first:
+      213: 4411919059562747689
+    second: darkemperor-removebg-preview_6
+  - first:
+      213: 6126150192271540551
+    second: darkemperor-removebg-preview_7
+  - first:
+      213: -333772559325353129
+    second: darkemperor-removebg-preview_8
+  - first:
+      213: -5263542478488532514
+    second: darkemperor-removebg-preview_9
+  - first:
+      213: 8462937688986926081
+    second: darkemperor-removebg-preview_10
+  - first:
+      213: -4070806892088601017
+    second: darkemperor-removebg-preview_11
+  - first:
+      213: -1409708095391625537
+    second: darkemperor-removebg-preview_12
+  - first:
+      213: -4297750703292627873
+    second: darkemperor-removebg-preview_13
+  - first:
+      213: -7537338527455412191
+    second: darkemperor-removebg-preview_14
+  - first:
+      213: -389272207801212955
+    second: darkemperor-removebg-preview_15
+  - first:
+      213: -5934963378802670909
+    second: darkemperor-removebg-preview_16
+  - first:
+      213: -478555644243759752
+    second: darkemperor-removebg-preview_17
+  - first:
+      213: -4866313320606396715
+    second: darkemperor-removebg-preview_18
+  - first:
+      213: 2692094040282104097
+    second: darkemperor-removebg-preview_19
+  - first:
+      213: 4314424679680546367
+    second: darkemperor-removebg-preview_20
+  - first:
+      213: -7210620377695374128
+    second: darkemperor-removebg-preview_21
+  - first:
+      213: 621242082391996888
+    second: darkemperor-removebg-preview_22
+  - first:
+      213: 6893910528015203347
+    second: darkemperor-removebg-preview_23
+  - first:
+      213: -5211615556661063037
+    second: darkemperor-removebg-preview_24
+  - first:
+      213: 5953272967705495027
+    second: darkemperor-removebg-preview_25
+  - first:
+      213: 5736206248144123716
+    second: darkemperor-removebg-preview_26
+  - first:
+      213: -6415397616530983230
+    second: darkemperor-removebg-preview_27
+  - first:
+      213: -6363014062843156639
+    second: darkemperor-removebg-preview_28
+  - first:
+      213: 1517676197647170374
+    second: darkemperor-removebg-preview_29
+  - first:
+      213: 2721428323389616898
+    second: darkemperor-removebg-preview_30
+  - first:
+      213: 4938186950104404686
+    second: darkemperor-removebg-preview_31
+  - first:
+      213: -5758789307120018365
+    second: darkemperor-removebg-preview_32
+  - first:
+      213: 5610459840820969740
+    second: darkemperor-removebg-preview_33
+  - first:
+      213: 3024212012324101336
+    second: darkemperor-removebg-preview_34
+  - first:
+      213: 5106710675077459400
+    second: darkemperor-removebg-preview_35
+  - first:
+      213: -7198311482951545123
+    second: darkemperor-removebg-preview_36
+  - first:
+      213: 6499382436340551861
+    second: darkemperor-removebg-preview_37
+  - first:
+      213: -6572871617605270732
+    second: darkemperor-removebg-preview_38
+  - first:
+      213: -4730054025139102971
+    second: darkemperor-removebg-preview_39
+  - first:
+      213: 1102147913306996363
+    second: darkemperor-removebg-preview_40
+  - first:
+      213: -7277577531645111271
+    second: darkemperor-removebg-preview_41
+  - first:
+      213: -7554745586154991044
+    second: darkemperor-removebg-preview_42
+  - first:
+      213: 7822698388850150666
+    second: darkemperor-removebg-preview_43
+  - first:
+      213: -4093551498242327100
+    second: darkemperor-removebg-preview_44
+  - first:
+      213: -9027230799527183359
+    second: darkemperor-removebg-preview_45
+  - first:
+      213: -7059475042903071577
+    second: darkemperor-removebg-preview_46
+  - first:
+      213: -2034195897491154367
+    second: darkemperor-removebg-preview_47
+  - first:
+      213: -2894611668411873887
+    second: darkemperor-removebg-preview_48
+  - first:
+      213: -9002094706179302035
+    second: darkemperor-removebg-preview_49
+  - first:
+      213: -2996482258471143493
+    second: darkemperor-removebg-preview_50
+  - first:
+      213: 8578613824616202440
+    second: darkemperor-removebg-preview_51
+  - first:
+      213: -5431455266794875051
+    second: darkemperor-removebg-preview_52
+  - first:
+      213: -1126186829610416925
+    second: darkemperor-removebg-preview_53
+  - first:
+      213: 4898473327586829516
+    second: darkemperor-removebg-preview_54
+  - first:
+      213: -4421763833730355442
+    second: darkemperor-removebg-preview_55
+  - first:
+      213: 388689270556947918
+    second: darkemperor-removebg-preview_56
+  - first:
+      213: 6415251085017680081
+    second: darkemperor-removebg-preview_57
+  - first:
+      213: -6345042436267868982
+    second: darkemperor-removebg-preview_58
+  - first:
+      213: 2644501169375550383
+    second: darkemperor-removebg-preview_59
+  - first:
+      213: 8317091694435642045
+    second: darkemperor-removebg-preview_60
+  - first:
+      213: -2911391324386916677
+    second: darkemperor-removebg-preview_61
+  - first:
+      213: -6287741470926096520
+    second: darkemperor-removebg-preview_62
+  - first:
+      213: -3050686551409118569
+    second: darkemperor-removebg-preview_63
+  - first:
+      213: -3725422755817081807
+    second: darkemperor-removebg-preview_64
+  - first:
+      213: 3985459186835951095
+    second: darkemperor-removebg-preview_65
+  - first:
+      213: 8797064207185940354
+    second: darkemperor-removebg-preview_66
+  - first:
+      213: 3513416220158932452
+    second: darkemperor-removebg-preview_67
+  - first:
+      213: -4916748016973251603
+    second: darkemperor-removebg-preview_68
+  - first:
+      213: -2664093283234827548
+    second: darkemperor-removebg-preview_69
+  - first:
+      213: -5396389421761124254
+    second: darkemperor-removebg-preview_70
+  - first:
+      213: 9067414548029826661
+    second: darkemperor-removebg-preview_71
+  - first:
+      213: -4646779659321559862
+    second: darkemperor-removebg-preview_72
+  - first:
+      213: -8562075755101556378
+    second: darkemperor-removebg-preview_73
+  - first:
+      213: 5635327257054980864
+    second: darkemperor-removebg-preview_74
+  - first:
+      213: 7481557763297218307
+    second: darkemperor-removebg-preview_75
+  - first:
+      213: 2128312569760705591
+    second: darkemperor-removebg-preview_76
+  - first:
+      213: -4995639023850467981
+    second: darkemperor-removebg-preview_77
+  - first:
+      213: -681215952084703145
+    second: darkemperor-removebg-preview_78
+  - first:
+      213: 4958179115783751434
+    second: darkemperor-removebg-preview_79
+  - first:
+      213: -2011835570864810283
+    second: darkemperor-removebg-preview_80
+  - first:
+      213: 4744672794908275087
+    second: darkemperor-removebg-preview_81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 288
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d2ab2aa4113a8a0800000000000000
+      internalID: -6295168841878458985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 288
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95151273d31d98b0800000000000000
+      internalID: -5143933400514226787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdafec2d218ad1730800000000000000
+      internalID: 3971515245210303195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 288
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1cbd40c9a185cb0800000000000000
+      internalID: -4875117339229830687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 288
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3011d08b68fe500800000000000000
+      internalID: 427708614674809838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 240
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccac2f3717f00b180800000000000000
+      internalID: -9101757866964759860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 240
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927530362094a3d30800000000000000
+      internalID: 4411919059562747689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 240
+        width: 81
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74149036425740550800000000000000
+      internalID: 6126150192271540551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 240
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ba3ad20a33e5bf0800000000000000
+      internalID: -333772559325353129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 240
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed90385d00424f6b0800000000000000
+      internalID: -5263542478488532514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 240
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cb4545df4627570800000000000000
+      internalID: 8462937688986926081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 144
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746d8df13b69187c0800000000000000
+      internalID: -4070806892088601017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 192
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe8039c4f5bf6ce0800000000000000
+      internalID: -1409708095391625537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 192
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54ce0d71825b54c0800000000000000
+      internalID: -4297750703292627873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 144
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12087273b8ef56790800000000000000
+      internalID: -7537338527455412191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 192
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef931d4df6099af0800000000000000
+      internalID: -389272207801212955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 144
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2c3837046c2ada0800000000000000
+      internalID: -5934963378802670909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 97
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de018751d1677cb0800000000000000
+      internalID: -4866313320606396715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 96
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12106fc244d3c5520800000000000000
+      internalID: 2692094040282104097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 96
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36998a236aefdb30800000000000000
+      internalID: 4314424679680546367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 96
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4364158fabeeb90800000000000000
+      internalID: -7210620377695374128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 96
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9bf78e1681f9800800000000000000
+      internalID: 621242082391996888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 96
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cfba789171caf50800000000000000
+      internalID: 6893910528015203347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 48
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3825157734f9ca7b0800000000000000
+      internalID: -5211615556661063037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 48
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5850be8364e9250800000000000000
+      internalID: 5953272967705495027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 48
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447b103e0391b9f40800000000000000
+      internalID: 5736206248144123716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 48
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c678c5abdde7f6a0800000000000000
+      internalID: -6415397616530983230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 48
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1672b6b2c6802b7a0800000000000000
+      internalID: -6363014062843156639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 48
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b33d4f57edf0510800000000000000
+      internalID: 1517676197647170374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203335134a474c520800000000000000
+      internalID: 2721428323389616898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec251731ed6f78440800000000000000
+      internalID: 4938186950104404686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c1bc4f2aba410b0800000000000000
+      internalID: -5758789307120018365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 190
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87da7935d24db59f0800000000000000
+      internalID: -478555644243759752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkemperor-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 144
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c018abeef7b5cdd40800000000000000
+      internalID: 5610459840820969740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

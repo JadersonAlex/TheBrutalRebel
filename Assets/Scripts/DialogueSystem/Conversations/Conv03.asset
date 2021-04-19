@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4398a45fa99f94940ac79330759ed637, type: 3}
+  m_Name: Conv03
+  m_EditorClassIdentifier: 
+  allLines:
+  - speaker: {fileID: 11400000, guid: cf80258a14998624eb9148edbf368911, type: 2}
+    dialogue: "Olha s\xF3 quem est\xE1 aqui!"
+  - speaker: {fileID: 11400000, guid: cf80258a14998624eb9148edbf368911, type: 2}
+    dialogue: Meu parelha das antigas...
+  - speaker: {fileID: 11400000, guid: bf1a1be37a524d944a9a001a162a970d, type: 2}
+    dialogue: Tagarela como sempre.
+  - speaker: {fileID: 11400000, guid: bf1a1be37a524d944a9a001a162a970d, type: 2}
+    dialogue: "Um  verme como voc\xEA jamais conseguir\xE1 roubar o diamante da vida
+      eterna!"
+  - speaker: {fileID: 11400000, guid: cf80258a14998624eb9148edbf368911, type: 2}
+    dialogue: "Quem voc\xEA pensa que \xE9?"
+  - speaker: {fileID: 11400000, guid: cf80258a14998624eb9148edbf368911, type: 2}
+    dialogue: Vai mesmo me impedir???
+  - speaker: {fileID: 11400000, guid: bf1a1be37a524d944a9a001a162a970d, type: 2}
+    dialogue: "Nem posso... Voc\xEA est\xE1 vendo apenas uma imagem replicada de
+      mim. Estou aqui apenas para te dar um aviso."
+  - speaker: {fileID: 11400000, guid: bf1a1be37a524d944a9a001a162a970d, type: 2}
+    dialogue: "Ao conseguir a vida eterna voc\xEA n\xE3o poder\xE1 ser mais uma pessoa
+      m\xE1."
+  - speaker: {fileID: 11400000, guid: cf80258a14998624eb9148edbf368911, type: 2}
+    dialogue: "Hahahaha...  E se eu continuar sendo o que voc\xEA considera uma pessoa
+      m\xE1? "
+  - speaker: {fileID: 11400000, guid: bf1a1be37a524d944a9a001a162a970d, type: 2}
+    dialogue: "Bom, n\xE3o quero estar aqui para ver isso."
+  - speaker: {fileID: 11400000, guid: cf80258a14998624eb9148edbf368911, type: 2}
+    dialogue: ...
+  - speaker: {fileID: 11400000, guid: 1724d43c948137b458609803305ef079, type: 2}
+    dialogue: 'Para continuar destrua a barreira com 10 golpes. '
